@@ -8,3 +8,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_normal.jpg" alt="Jest" width="40" height="40"/>
 </p>
+
+<p align="left">Для запуска тестов необходимо в консоли ввести: npm test <имя файла с тестом></p>
